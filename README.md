@@ -24,7 +24,7 @@ We welcome contributions from everyone interested in making Central Perk a succe
 - **Gedion**: Responsible for designing the pages related to group chat and the normal chatting interface.
 - **Yanet**: Focused on developing the page that displays the list of potential friends and the page for managing existing friendships.
 - **Feven**: Tasked with creating the user and potential friend profile pages.
-- **Aman**: Handling the design of the landing page and the discover page.
+- **Aman**: Handling the design of the landing page and the setting page.
 - **Gelila**: In charge of implementing the signup and login pages, as well as the game-playing functionality.
 
 ## Let's Make This Happen!
