@@ -19,7 +19,7 @@ Central Perk utilizes ReactJS for the frontend development and Express for the b
 
 ## Contribution
 
-We welcome contributions from everyone interested in making Central Perk a success(but no one wants to join ou team)! Our team is divided as follows:
+We welcome contributions from everyone interested in making Central Perk a success! Our team is divided as follows:
 
 - **Gedion**: Responsible for designing the pages related to group chat and the normal chatting interface.
 - **Yanet**: Focused on developing the page that displays the list of potential friends and the page for managing existing friendships.
