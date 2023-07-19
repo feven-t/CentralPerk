@@ -1,7 +1,7 @@
 
 # Central Perk
 
-Central Perk is a web application inspired by the iconic TV show "Friends." In a world where dating apps dominate, we believe that true companionship and genuine friendships are equally important. Central Perk aims to provide a platform where lonely individuals can connect with like-minded people and find meaningful friendships.
+Central Perk is a web application inspired by the iconic TV show "Friends." In a world where dating apps dominate, we believe that true companionship and genuine friendships are equally important. Central Perk aims to provide a platform where different individuals can connect with like-minded people and find meaningful friendships.
 
 ## Features
 
