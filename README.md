@@ -21,7 +21,7 @@ Central Perk utilizes ReactJS for the frontend development and Express for the b
 
 We welcome contributions from everyone interested in making Central Perk a success! Our team is divided as follows:
 
-- **Gedion**: Responsible for designing the pages related to group chat and the normal chatting interface.
+- **Gedion**: Responsible for designing and creating the pages related to group chat and the normal(private) chatting interface.
 - **Yanet**: Focused on developing the page that displays the list of potential friends and the page for managing existing friendships.
 - **Feven**: Tasked with creating the user and potential friend profile pages.
 - **Aman**: Handling the design of the landing page and the setting page.
